@@ -39,7 +39,7 @@ namespace RealTimeSpeechTranslateUWPSample
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        const string AzureSecretKey = "1e5d2627292d4d8282b57855029f47d2";
+        const string AzureSecretKey = "[ここにAzureCognitiveServiceのTranslatorSpeechAPIのアクセスキーを入れる]";
 
         private Dictionary<string, List<ComboBoxItem>> langVoiceDict = new Dictionary<string, List<ComboBoxItem>>();
 
