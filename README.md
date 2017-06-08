@@ -19,8 +19,9 @@ const string AzureSecretKey = "[ここにAzureCognitiveServiceのTranslatorSpeec
 ```
 
 ## 参考
-* 元ネタ https://github.com/MicrosoftTranslator/UWP-SpeechTranslate-App  
-* UWP Audiograph and Websocket references
+1. Universal Windows App - Speech Translation API Demo
+- https://github.com/MicrosoftTranslator/UWP-SpeechTranslate-App  
+2. UWP Audiograph and Websocket references
 - http://mtaulty.com/2016/02/09/windows-10-uwp-audiographrecording-microphone-to-wav-file/
 - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/AudioCreation
 - https://msdn.microsoft.com/en-us/library/windows/apps/windows.media.audio.audiograph.aspx
